@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.AssemblyInfo.cs
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\bin\Debug\netcoreapp3.1\DataStructuresGeneric.exe
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\bin\Debug\netcoreapp3.1\DataStructuresGeneric.deps.json
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\bin\Debug\netcoreapp3.1\DataStructuresGeneric.runtimeconfig.json
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\bin\Debug\netcoreapp3.1\DataStructuresGeneric.runtimeconfig.dev.json
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\bin\Debug\netcoreapp3.1\DataStructuresGeneric.dll
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\bin\Debug\netcoreapp3.1\DataStructuresGeneric.pdb
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.dll
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.pdb
+C:\Users\hp\source\repos\DataStructuresGeneric\DataStructuresGeneric\obj\Debug\netcoreapp3.1\DataStructuresGeneric.genruntimeconfig.cache
