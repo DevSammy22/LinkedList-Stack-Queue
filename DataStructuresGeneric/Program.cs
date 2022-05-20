@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-namespace GenericDataStructures
+﻿namespace GenericDataStructures
 {
     public  class Program
     {
